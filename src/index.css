@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+      @apply border-border;
+      font-family: "Poppins", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+      border-color: #3734344f;
+    }
+    body {
+      @apply bg-background text-foreground;
+    }
+  }
+  
+  .bg-navy-900 {
+    background-color: #101935;
+  }
+  
+  .bg-orange-50 {
+    background-color: #fff8f1;
+  }
+  
+  .bg-blue-50 {
+    background-color: #f0f7ff;
+  }
+  
+  .bg-pink-50 {
+    background-color: #fdf2f8;
+  }
+
+  .font2 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
