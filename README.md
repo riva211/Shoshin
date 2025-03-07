@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Site is live on : [text](https://shoshin-gold.vercel.app/)
+## Site is live on : [Shoshin Dashboard](https://shoshin-gold.vercel.app/)
 
 ## Available Scripts
 
